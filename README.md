@@ -4,7 +4,7 @@ Este proyecto es un todolist para personas que tratan de organizar sus tareas,
 esta aplicación creada y maquetada en flutter tiene opciones CRUD ya sea para
 crear tareas, leerlas, actualizarlas y borrarlas.
 
-En este caso realize el trabajo teniendo de guia un video que eplica los procesos y etapas
+En este caso realize el trabajo teniendo de guia un video que explica los procesos y etapas
 a realizar para crear la aplicacion TodoList.
 
 ObjectBox Package:
